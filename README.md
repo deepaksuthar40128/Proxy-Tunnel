@@ -1,4 +1,4 @@
-# HTTP Tunnel
+# Proxy Tunnel (proxy server)
 This is a proxy server acting as proxy between my `AWS-EC2` container url and client browser.
 
 ## 💀💀 Dont Use 💀💀
